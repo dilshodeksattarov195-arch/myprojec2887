@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfync",
+        "uuid": 392632,
+        "checksum": "ed91ar"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
